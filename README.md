@@ -1,145 +1,118 @@
 <div align="center">
-  
-# Faris Darwish
-### AI Engineer | Data Scientist | Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/XFD)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:XFarisDarwish@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darwee4)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Let's+build+something+amazing!)
 
 </div>
 
----
+<!-- Profile Views Counter -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
+</p>
+
+<!-- About Me Section -->
+## 🤖 About Me
+
+```typescript
+const faris = {
+    location: "Middle East 🌍",
+    role: "AI Engineer & Full-Stack Developer",
+    skills: {
+        ai_ml: ["Deep Learning", "Computer Vision", "NLP"],
+        cloud: ["AWS", "GCP", "SageMaker"],
+        languages: ["Python", "JavaScript", "PHP"],
+        tools: ["PyTorch", "TensorFlow", "React", "Laravel"]
+    },
+    currentFocus: "Building production-grade AI solutions",
+    funFact: "I can explain AI concepts to both machines and humans! 🤓"
+};
+```
+
+<!-- Activity Section -->
+## 🚀 What I'm Up To
+
+<table>
+  <tr>
+    <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%">
+    </td>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%">
+    </td>
+  </tr>
+</table>
+
+<!-- Skills Section -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-```python
-def professional_summary():
-    return {
-        "role": "AI Engineer & Full-Stack Developer",
-        "experience": "3+ years",
-        "specializations": ["Deep Learning", "Computer Vision", "NLP"],
-        "achievements": {
-            "ML_accuracy": "92-98%",
-            "efficiency_improvements": "30-40%",
-            "automation_gains": "40%"
-        }
-    }
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
+
+</div>
+
+<!-- Projects Section -->
+## 🌟 Featured Projects
+
+<div align="center">
+<a href="YOUR_REPO_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darwee4&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
+</a>
+<a href="YOUR_REPO_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darwee4&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<!-- Achievements Section -->
+## 🏆 Achievements
+<div align="center">
+
+```mermaid
+mindmap
+  root((Faris's Journey))
+    AI Engineering
+      98% Model Accuracy
+      30% Faster Inference
+      Production Deployments
+    Full-Stack
+      Web Applications
+      E-commerce Solutions
+      System Optimization
+    Cloud & DevOps
+      AWS Certified
+      ML Pipelines
+      40% Automation Gain
 ```
 
 </div>
 
-## 🎯 Professional Impact
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI/ML Engineering
-- Built production-grade ML solutions with 92-98% accuracy
-- Optimized ML pipelines for 30-40% efficiency gains
-- Deployed models on AWS SageMaker with 30% faster inference
-- Engineered end-to-end automation achieving 40% improvement
-
-</td>
-<td width="50%">
-
-### 💻 Full-Stack Development
-- Developed scalable web applications and e-commerce solutions
-- Reduced system delays by 30% through optimization
-- Improved proposal turnaround time by 20%
-- Implemented supply chain optimization reducing waste by 18%
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technology Arsenal
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
 <div align="center">
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Frontend & Cloud
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=github-dark-blue&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
+    </picture>
 </div>
 
-## 🌟 Signature Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Enterprise Order Management System</h3>
-<div align="center">
-<a href="github-repo-link" target="_blank"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
-</div>
-<p align="center">
-Advanced order tracking system built for Riyadh Pack Factory, featuring real-time monitoring and status updates. Achieved 30% reduction in processing delays.
-</p>
-</td>
-<td width="50%">
-<h3 align="center">AWS ML Pipeline Optimization</h3>
-<div align="center">
-<a href="github-repo-link" target="_blank"><img src="https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
-</div>
-<p align="center">
-Production-grade ML pipeline on AWS SageMaker with automated workflows using Lambda and Step Functions. Reduced inference time by 30%.
-</p>
-</td>
-</tr>
-</table>
-
-## 📈 Performance Metrics
+<!-- Connect Section -->
+## 🤝 Let's Connect
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+    <a href="https://linkedin.com/in/XFD">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:XFarisDarwish@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="YOUR_PORTFOLIO_LINK">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
 </div>
 
-## 🎓 Educational Background
-
-<table>
-<tr>
-<td width="50%">
-
-### Academic Qualification
-**B.Sc. in Informatics and Computer Science**
-- The British University in Egypt
-- Specialization: Machine Learning and AI
-- Honors Graduate
-
-</td>
-<td width="50%">
-
-### Professional Certifications
-- **AWS:** ML for NLP, Cloud Architecting
-- **IBM:** Advanced Data Science, ML with Python
-- **Specialized:** Deep Learning Fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
+<!-- Fun Footer -->
 <div align="center">
-
-### 💡 _"Building intelligent solutions through code, one commit at a time."_
-
-![Profile Views](https://komarev.com/ghpvc/?username=Darwee4&color=brightgreen&style=for-the-badge)
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
