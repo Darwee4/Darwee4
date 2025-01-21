@@ -51,18 +51,6 @@ const faris = {
 
 </div>
 
-<!-- Projects Section -->
-## 🌟 Featured Projects
-
-<div align="center">
-<a href="YOUR_REPO_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XFarisDarwish&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
-</a>
-<a href="YOUR_REPO_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XFarisDarwish&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
 <!-- Achievements Section -->
 ## 🏆 Achievements
 <div align="center">
