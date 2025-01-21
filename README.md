@@ -23,7 +23,7 @@ const faris = {
         tools: ["PyTorch", "TensorFlow", "React", "Laravel"]
     },
     currentFocus: "Building production-grade AI solutions",
-    funFact: "I can explain AI concepts to both machines and humans! 🤓"
+    funFact: "I can explain AI concepts to both machines and humans!"
 };
 ```
 
@@ -90,11 +90,10 @@ mindmap
 ## 📊 GitHub Stats
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=github-dark-blue&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
-    </picture>
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=radical" alt="Top Languages" />
+    </p>
 </div>
 
 <!-- Connect Section -->
