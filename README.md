@@ -52,11 +52,10 @@ I’m a **passionate AI Engineer** and **Full-Stack Developer** who loves buildi
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XFarisDarwish&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFarisDarwish&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
