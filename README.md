@@ -1,58 +1,81 @@
-# Hi, I'm Faris 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Faris+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Dev;Building+the+future+with+AI+%26+code" alt="Typing animation" />
+</p>
 
-### AI Engineer | Data Scientist | Full-Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/XFD)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:XFarisDarwish@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Darwee4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/XFD">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:XFarisDarwish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Darwee4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 **About Me**
 
-I build **AI-powered solutions** and **scalable web apps** with a focus on **Deep Learning**, **Computer Vision**, and **NLP**. I’ve achieved **92-98% accuracy** in production systems and optimized ML pipelines for **30-40% efficiency gains**. Passionate about solving real-world problems with cutting-edge tech.
+I’m a **passionate AI Engineer** and **Full-Stack Developer** who loves building **intelligent systems** and **scalable web apps**. I specialize in **Deep Learning**, **Computer Vision**, and **NLP**, with a track record of achieving **92-98% accuracy** in production systems. I’m also a **cloud enthusiast**, optimizing ML pipelines for **30-40% efficiency gains** on **AWS** and **GCP**.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 📈 **GitHub Stats**
 
-![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 **Let's Connect!**
+## 🌟 **Let's Build Something Amazing!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/XFD)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:XFarisDarwish@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Darwee4)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/XFD">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:XFarisDarwish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Darwee4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Darwee4/count.svg" />
+  <img src="https://profile-counter.glitch.me/XFarisDarwish/count.svg" />
 </p>
