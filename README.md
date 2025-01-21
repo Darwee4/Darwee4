@@ -1,118 +1,67 @@
-<div align="center">
+# Hi there, I'm Faris Hesham Darwish 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Let's+build+something+amazing!)
+### AI Engineer | Data Scientist | Full-Stack Developer
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/Darwee4)
 
-<!-- Profile Views Counter -->
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
+---
+
+## 🚀 **About Me**
+
+I'm a passionate **AI Engineer** and **Full-Stack Developer** with over **3+ years** of experience in designing and deploying web applications and production-grade AI solutions. I specialize in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**, achieving **92-98% accuracy rates** in production systems. I'm also proficient in cloud infrastructures like **AWS** and **GCP**, where I've delivered **30-40% efficiency improvements** through optimization and automation of ML pipelines.
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Frameworks & Libraries**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📈 **GitHub Stats**
+
+![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=radical)
+
+---
+
+## 📫 **Let's Connect!**
+
+Feel free to reach out if you want to collaborate on a project, discuss AI, or just chat about tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/Darwee4)
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Darwee4/count.svg" />
 </p>
-
-<!-- About Me Section -->
-## 🤖 About Me
-
-```typescript
-const faris = {
-    location: "Middle East 🌍",
-    role: "AI Engineer & Full-Stack Developer",
-    skills: {
-        ai_ml: ["Deep Learning", "Computer Vision", "NLP"],
-        cloud: ["AWS", "GCP", "SageMaker"],
-        languages: ["Python", "JavaScript", "PHP"],
-        tools: ["PyTorch", "TensorFlow", "React", "Laravel"]
-    },
-    currentFocus: "Building production-grade AI solutions",
-    funFact: "I can explain AI concepts to both machines and humans! 🤓"
-};
-```
-
-<!-- Activity Section -->
-## 🚀 What I'm Up To
-
-<table>
-  <tr>
-    <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%">
-    </td>
-    <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
-
-<!-- Skills Section -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
-<img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
-
-</div>
-
-<!-- Projects Section -->
-## 🌟 Featured Projects
-
-<div align="center">
-<a href="YOUR_REPO_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darwee4&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
-</a>
-<a href="YOUR_REPO_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darwee4&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<!-- Achievements Section -->
-## 🏆 Achievements
-<div align="center">
-
-```mermaid
-mindmap
-  root((Faris's Journey))
-    AI Engineering
-      98% Model Accuracy
-      30% Faster Inference
-      Production Deployments
-    Full-Stack
-      Web Applications
-      E-commerce Solutions
-      System Optimization
-    Cloud & DevOps
-      AWS Certified
-      ML Pipelines
-      40% Automation Gain
-```
-
-</div>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=github-dark-blue&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
-    </picture>
-</div>
-
-<!-- Connect Section -->
-## 🤝 Let's Connect
-
-<div align="center">
-    <a href="https://linkedin.com/in/XFD">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:XFarisDarwish@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>&nbsp;&nbsp;
-    <a href="YOUR_PORTFOLIO_LINK">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-    </a>
-</div>
-
-<!-- Fun Footer -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
