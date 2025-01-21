@@ -1,86 +1,117 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Faris+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Dev;Building+the+future+with+AI+%26+code" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/XFD">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:XFarisDarwish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/Darwee4">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 🚀 **About Me**
-
-I’m a **passionate AI Engineer** and **Full-Stack Developer** who loves building **intelligent systems** and **scalable web apps**. I specialize in **Deep Learning**, **Computer Vision**, and **NLP**, with a track record of achieving **92-98% accuracy** in production systems. I’m also a **cloud enthusiast**, optimizing ML pipelines for **30-40% efficiency gains** on **AWS** and **GCP**.
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Languages & Frameworks**
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Let's+build+something+amazing!)
+
 </div>
-
-### **Cloud & DevOps**
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</div>
-
-### **Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</div>
-
----
-
-## 📈 **GitHub Activity**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🌟 **Let's Build Something Amazing!**
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/XFD">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:XFarisDarwish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/Darwee4">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+<!-- Profile Views Counter -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
 </p>
 
----
+<!-- About Me Section -->
+## 🤖 About Me
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/XFarisDarwish/count.svg" />
-</p>
+```typescript
+const faris = {
+    location: "Middle East 🌍",
+    role: "AI Engineer & Full-Stack Developer",
+    skills: {
+        ai_ml: ["Deep Learning", "Computer Vision", "NLP"],
+        cloud: ["AWS", "GCP", "SageMaker"],
+        languages: ["Python", "JavaScript", "PHP"],
+        tools: ["PyTorch", "TensorFlow", "React", "Laravel"]
+    },
+    currentFocus: "Building production-grade AI solutions",
+    funFact: "I can explain AI concepts to both machines and humans! 🤓"
+};
+```
+
+<!-- Activity Section -->
+## 🚀 What I'm Up To
+
+<table>
+  <tr>
+    <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%">
+    </td>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%">
+    </td>
+  </tr>
+</table>
+
+<!-- Skills Section -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
+
+</div>
+
+<!-- Projects Section -->
+## 🌟 Featured Projects
+
+<div align="center">
+<a href="YOUR_REPO_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XFarisDarwish&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
+</a>
+<a href="YOUR_REPO_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XFarisDarwish&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<!-- Achievements Section -->
+## 🏆 Achievements
+<div align="center">
+
+```mermaid
+mindmap
+  root((Faris's Journey))
+    AI Engineering
+      98% Model Accuracy
+      30% Faster Inference
+      Production Deployments
+    Full-Stack
+      Web Applications
+      E-commerce Solutions
+      System Optimization
+    Cloud & DevOps
+      AWS Certified
+      ML Pipelines
+      40% Automation Gain
+```
+
+</div>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=github-dark-blue&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darwee4&theme=default&hide_border=true">
+    </picture>
+</div>
+
+<!-- Connect Section -->
+## 🤝 Let's Connect
+
+<div align="center">
+    <a href="https://linkedin.com/in/XFD">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:XFarisDarwish@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>&nbsp;&nbsp;
+</div>
+
+<!-- Fun Footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
