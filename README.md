@@ -3,9 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Let's+build+something+amazing!)
 
 </div>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
-</p>
+
 <!-- Profile Views Counter -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
@@ -71,7 +69,7 @@ const faris = {
 
 ```mermaid
 mindmap
-  root((Faris's Journey))
+  root((Faris Journey))
     AI Engineering
       98% Model Accuracy
       30% Faster Inference
@@ -110,7 +108,9 @@ mindmap
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>&nbsp;&nbsp;
 </div>
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
+</p>
 <!-- Fun Footer -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
