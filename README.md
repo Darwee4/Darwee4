@@ -86,26 +86,22 @@ mindmap
 
 </div>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darwee4&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=radical" alt="Top Languages" />
-    </p>
-</div>
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 
 <div align="center">
-    <a href="https://linkedin.com/in/XFD">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:XFarisDarwish@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>&nbsp;&nbsp;
+    <p align="center">
+  <a href="https://www.linkedin.com/in/XFD">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:XFarisDarwish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Darwee4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 </div>
 <p align="center">
   <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
