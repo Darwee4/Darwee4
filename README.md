@@ -1,9 +1,11 @@
 <div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Data+Scientist+%f0%9f%93%8a;Full-Stack+Developer+%F0%9F%9A%F0%9F%9A%80;Let's+build+something+amazing!)
+</div>
 
 # 👋 Profile Views
+<p align="left">
 ![Profile Views](https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge)
-
+</p>
 ## 🤖 About Me
 
 ```typescript
@@ -23,16 +25,24 @@ const faris = {
 
 ## 🚀 Activity
 
-| GitHub Activity | Top Languages |
-|----------------|---------------|
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true) |
-
+<table>
+  <tr>
+    <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%">
+    </td>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%">
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tech Arsenal
 
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git)
+<div align="center">
 
-![More Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
 
+</div>
 ## 🏆 Achievements
 
 ```mermaid
@@ -76,4 +86,4 @@ graph TD
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-</div>
+
