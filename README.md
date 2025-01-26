@@ -6,8 +6,9 @@
 
 # 👋 Profile Views
 <p align="left">
-![Profile Views](https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge)
+    <img src="https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
 </p>
+
 ## 🤖 About Me
 
 ```typescript
