@@ -1,6 +1,4 @@
-I'll create a complete README.md file that should work correctly:
 
-```markdown
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Data+Scientist+%f0%9f%93%8a;Full-Stack+Developer+%F0%9F%9A%F0%9F%9A%80;Let's+build+something+amazing!)
 
 # 👋 Profile Views
