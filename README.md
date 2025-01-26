@@ -5,7 +5,7 @@
 # 👋 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge)
 
-## 🤖 About Me
+## About Me
 
 ```typescript
 const faris = {
@@ -22,47 +22,44 @@ const faris = {
 };
 ```
 
-## 🚀 Activity
+## Activity
 
 | GitHub Activity | Top Languages |
 |----------------|---------------|
 | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true) |
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git)
 
 ![More Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github)
 
-## 🏆 Achievements
+## Achievements
 
 ```mermaid
-graph TD
-    A[Faris Journey]
-    B[AI Engineering]
-    C[Full-Stack Development]
-    D[Cloud and DevOps]
-    E[Open Source Contributions]
-    
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    
-    B --> B1[Model Accuracy & Inference]
-    B --> B2[Production AI Solutions]
-    
-    C --> C1[Web Applications]
-    C --> C2[E-commerce Solutions]
-    
-    D --> D1[AWS Certification]
-    D --> D2[ML Pipelines]
-    
-    E --> E1[AI Project Contributions]
-    E --> E2[Repository Stars]
+mindmap
+  root((Faris Journey))
+    AI Engineering
+      98% Model Accuracy
+      30% Inference Time Reduction
+      Production AI Solutions
+      Computer Vision Expertise
+    Full-Stack Development
+      Scalable Web Apps
+      E-commerce Solutions
+      20% Performance Optimization
+    Cloud & DevOps
+      AWS Certifications
+      ML Pipeline Design
+      40% Automation Gain
+      GCP & Firebase Proficiency
+    Open Source
+      AI Project Contributions
+      100+ Star Repositories
+      Technical Tutorials
 ```
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
