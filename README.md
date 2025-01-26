@@ -45,26 +45,30 @@ const faris = {
 <div align="center">
 
 ```mermaid
-mindmap
-    root((Faris Journey))
-        AI Engineering
-            Achieved 98% Model Accuracy
-            Reduced Inference Time by 30%
-            Deployed Production-Grade AI Solutions
-            Specialized in Computer Vision and NLP
-        Full-Stack Development
-            Built Scalable Web Applications
-            Delivered E-commerce Solutions
-            Optimized Systems for 20% Performance Gain
-        Cloud and DevOps
-            AWS Certified (ML, Cloud Architecting)
-            Designed End-to-End ML Pipelines
-            Achieved 40% Automation Gain
-            Proficient in GCP and Firebase
-        Open Source Contributions
-            Active Contributor to AI and ML Projects
-            Published Repositories with 100+ Stars
-            Shared Knowledge through Tutorials and Blogs
+flowchart TD
+    A[Faris Journey]
+    A --> B[AI Engineering]
+    A --> C[Full-Stack Development]
+    A --> D[Cloud and DevOps]
+    A --> E[Open Source Contributions]
+    
+    B --> B1[Achieved 98% Model Accuracy]
+    B --> B2[Reduced Inference Time by 30%]
+    B --> B3[Deployed Production-Grade AI Solutions]
+    B --> B4[Specialized in Computer Vision and NLP]
+    
+    C --> C1[Built Scalable Web Applications]
+    C --> C2[Delivered E-commerce Solutions]
+    C --> C3[Optimized Systems for 20% Performance Gain]
+    
+    D --> D1[AWS Certified]
+    D --> D2[Designed End-to-End ML Pipelines]
+    D --> D3[Achieved 40% Automation Gain]
+    D --> D4[Proficient in GCP and Firebase]
+    
+    E --> E1[Active Contributor to AI and ML Projects]
+    E --> E2[Published Repositories with 100+ Stars]
+    E --> E3[Shared Knowledge through Tutorials and Blogs]
 </div>
 
 <!-- Connect Section -->
