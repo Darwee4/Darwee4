@@ -28,25 +28,14 @@ const faris = {
 ```
 
 <!-- Activity Section -->
-## 🚀 What I'm Up To
-
-<table>
-  <tr>
-    <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%">
-    </td>
-    <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+🚀 What I'm Up To
+<table> <tr> <td width="50%"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true" width="100%"> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true" width="100%"> </td> </tr> </table>
 
 <!-- Skills Section -->
-## 🛠️ Tech Arsenal
-
+🛠️ Tech Arsenal
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
 <img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
 
 </div>
@@ -76,7 +65,7 @@ mindmap
       Active Contributor to AI and ML Projects
       Published Repositories with 100+ Stars
       Shared Knowledge through Tutorials and Blogs
-
+</div>
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
