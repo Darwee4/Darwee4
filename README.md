@@ -38,6 +38,7 @@ const faris = {
     </td>
   </tr>
 </table>
+<!-- Skills Section -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -46,6 +47,7 @@ const faris = {
 <img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
 
 </div>
+<!-- Achievements Section -->
 ## 🏆 Achievements
 
 ```mermaid
