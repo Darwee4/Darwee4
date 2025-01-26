@@ -66,7 +66,7 @@ mindmap
       Web Applications
       E-commerce Solutions
       System Optimization
-    Cloud & DevOps
+    Cloud and DevOps
       AWS Certified
       ML Pipelines
       40% Automation Gain
