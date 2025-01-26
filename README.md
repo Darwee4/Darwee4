@@ -47,7 +47,8 @@ const faris = {
 <img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
 
 </div>
-</div><!-- Achievements Section -->
+</div>
+<!-- Achievements Section -->
 🏆 Achievements
 <div align="center">
 '''mermaid
