@@ -34,9 +34,12 @@ const faris = {
 
 ## 🛠️ Tech Arsenal
 
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git)
+<div align="center">
 
-![More Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
+
+</div>
 
 ## 🏆 Achievements
 
