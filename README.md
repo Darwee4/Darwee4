@@ -56,26 +56,26 @@ const faris = {
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Faris's Journey))
-    AI Engineering
-      Achieved 98% Model Accuracy
-      Reduced Inference Time by 30%
-      Deployed Production-Grade AI Solutions
-      Specialized in Computer Vision and NLP
-    Full-Stack Development
-      Built Scalable Web Applications
-      Delivered E-commerce Solutions
-      Optimized Systems for 20% Performance Gain
-    Cloud and DevOps
-      AWS Certified (ML, Cloud Architecting)
-      Designed End-to-End ML Pipelines
-      Achieved 40% Automation Gain
-      Proficient in GCP and Firebase
-    Open Source Contributions
-      Active Contributor to AI and ML Projects
-      Published Repositories with 100+ Stars
-      Shared Knowledge through Tutorials and Blogs
+    mindmap
+      root((Faris's Journey))
+        AI Engineering
+          Achieved 98% Model Accuracy
+          Reduced Inference Time by 30%
+          Deployed Production-Grade AI Solutions
+          Specialized in Computer Vision and NLP
+        Full-Stack Development
+          Built Scalable Web Applications
+          Delivered E-commerce Solutions
+          Optimized Systems for 20% Performance Gain
+        Cloud and DevOps
+          AWS Certified (ML, Cloud Architecting)
+          Designed End-to-End ML Pipelines
+          Achieved 40% Automation Gain
+          Proficient in GCP and Firebase
+        Open Source Contributions
+          Active Contributor to AI and ML Projects
+          Published Repositories with 100+ Stars
+          Shared Knowledge through Tutorials and Blogs
 
 </div>
 
