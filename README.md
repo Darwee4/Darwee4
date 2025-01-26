@@ -70,6 +70,8 @@ graph TD
 ![Full Stack Developer](https://media.tenor.com/UtTC4AITYJ4AAAAd/full-stack-developer.gif)
 
 ---
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
+</p>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 ```
