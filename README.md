@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Faris+Darwish+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Data+Scientist+%f0%9f%93%8a;Full-Stack+Developer+%F0%9F%9A%F0%9F%9A%F0%9F%9A%80;Let's+build+something+amazing!)
 
 # 👋 Profile Views
@@ -66,8 +68,11 @@ graph TD
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Darwee4)
 
-![Full Stack Developer](https://media.tenor.com/UtTC4AITYJ4AAAAd/full-stack-developer.gif)
+<p align="center">
+    <img src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="Full Stack Developer GIF" width="600" />
+</p>
 
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
