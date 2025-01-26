@@ -45,30 +45,29 @@ const faris = {
 <div align="center">
 
 ```mermaid
-flowchart TD
+graph TD
     A[Faris Journey]
-    A --> B[AI Engineering]
-    A --> C[Full-Stack Development]
-    A --> D[Cloud and DevOps]
-    A --> E[Open Source Contributions]
+    B[AI Engineering]
+    C[Full-Stack Development]
+    D[Cloud and DevOps]
+    E[Open Source Contributions]
     
-    B --> B1[Achieved 98% Model Accuracy]
-    B --> B2[Reduced Inference Time by 30%]
-    B --> B3[Deployed Production-Grade AI Solutions]
-    B --> B4[Specialized in Computer Vision and NLP]
+    A --> B
+    A --> C
+    A --> D
+    A --> E
     
-    C --> C1[Built Scalable Web Applications]
-    C --> C2[Delivered E-commerce Solutions]
-    C --> C3[Optimized Systems for 20% Performance Gain]
+    B --> B1[Model Accuracy & Inference]
+    B --> B2[Production AI Solutions]
     
-    D --> D1[AWS Certified]
-    D --> D2[Designed End-to-End ML Pipelines]
-    D --> D3[Achieved 40% Automation Gain]
-    D --> D4[Proficient in GCP and Firebase]
+    C --> C1[Web Applications]
+    C --> C2[E-commerce Solutions]
     
-    E --> E1[Active Contributor to AI and ML Projects]
-    E --> E2[Published Repositories with 100+ Stars]
-    E --> E3[Shared Knowledge through Tutorials and Blogs]
+    D --> D1[AWS Certification]
+    D --> D2[ML Pipelines]
+    
+    E --> E1[AI Project Contributions]
+    E --> E2[Repository Stars]
 </div>
 
 <!-- Connect Section -->
