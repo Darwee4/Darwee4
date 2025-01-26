@@ -54,7 +54,8 @@ const faris = {
 🏆 Achievements
 
 <div align="center">
- ```mermaid
+
+```mermaid
 mindmap
   root((Faris's Journey))
     AI Engineering
@@ -75,6 +76,7 @@ mindmap
       Active Contributor to AI and ML Projects
       Published Repositories with 100+ Stars
       Shared Knowledge through Tutorials and Blogs
+
 </div>
 
 <!-- Connect Section -->
