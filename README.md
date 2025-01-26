@@ -75,15 +75,25 @@ mindmap
       - Active Contributor to AI and ML Projects
       - Published Repositories with 100+ Stars
       - Shared Knowledge through Tutorials and Blogs
-
 </div>
+
 <!-- Connect Section -->
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Darwee4)
-
+<div align="center">
+    <p align="center">
+  <a href="https://www.linkedin.com/in/XFD">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:XFarisDarwish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Darwee4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+</div>
 ![Full Stack Developer](https://media.tenor.com/UtTC4AITYJ4AAAAd/full-stack-developer.gif)
 
 ---
