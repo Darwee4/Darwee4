@@ -55,15 +55,12 @@ mindmap
       Scalable Web Apps
       E-commerce Solutions
       20% Performance Optimization
-    Cloud & DevOps
+    Cloud and DevOps
       AWS Certifications
       ML Pipeline Design
       40% Automation Gain
-      GCP & Firebase Proficiency
-    Open Source
-      AI Project Contributions
-      100+ Star Repositories
-      Technical Tutorials
+      GCP and Firebase Proficiency
+    
 ```
 
 ## 🤝 Let's Connect
