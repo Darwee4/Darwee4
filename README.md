@@ -47,35 +47,33 @@ const faris = {
 <img src="https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github" />
 
 </div>
-<!-- Achievements Section -->
-## 🏆 Achievements
-
-```mermaid
-graph TD
-    A[Faris Journey]
-    B[AI Engineering]
-    C[Full-Stack Development]
-    D[Cloud and DevOps]
-    E[Open Source Contributions]
-    
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    
-    B --> B1[Model Accuracy & Inference]
-    B --> B2[Production AI Solutions]
-    
-    C --> C1[Web Applications]
-    C --> C2[E-commerce Solutions]
-    
-    D --> D1[AWS Certification]
-    D --> D2[ML Pipelines]
-    
-    E --> E1[AI Project Contributions]
-    E --> E2[Repository Stars]
-```
-
+</div><!-- Achievements Section -->
+🏆 Achievements
+<div align="center">
+mermaid
+Copy
+mindmap
+  root((Faris's Journey))
+    AI Engineering
+      - Achieved 98% Model Accuracy
+      - Reduced Inference Time by 30%
+      - Deployed Production-Grade AI Solutions
+      - Specialized in Computer Vision and NLP
+    Full-Stack Development
+      - Built Scalable Web Applications
+      - Delivered E-commerce Solutions
+      - Optimized Systems for 20% Performance Gain
+    Cloud and DevOps
+      - AWS Certified (ML, Cloud Architecting)
+      - Designed End-to-End ML Pipelines
+      - Achieved 40% Automation Gain
+      - Proficient in GCP and Firebase
+    Open Source Contributions
+      - Active Contributor to AI and ML Projects
+      - Published Repositories with 100+ Stars
+      - Shared Knowledge through Tutorials and Blogs
+</div>
+<!-- Connect Section -->
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
