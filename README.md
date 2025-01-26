@@ -94,7 +94,6 @@ mindmap
   </a>
 </p>
 </div>
-![Full Stack Developer](https://media.tenor.com/UtTC4AITYJ4AAAAd/full-stack-developer.gif)
 
 ---
 <p align="center">
