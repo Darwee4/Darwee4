@@ -51,7 +51,6 @@ const faris = {
 🏆 Achievements
 <div align="center">
 mermaid
-Copy
 mindmap
   root((Faris's Journey))
     AI Engineering
