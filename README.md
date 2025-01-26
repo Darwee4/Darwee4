@@ -3,7 +3,7 @@
 # 👋 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Darwee4&label=Profile%20views&color=2F81F7&style=for-the-badge)
 
-## About Me
+## 🤖 About Me
 
 ```typescript
 const faris = {
@@ -20,19 +20,19 @@ const faris = {
 };
 ```
 
-## Activity
+## 📊 Activity
 
 | GitHub Activity | Top Languages |
 |----------------|---------------|
 | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true) |
 
-## Tech Arsenal
+## 🛠️ Tech Arsenal
 
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nodejs,docker,git)
 
 ![More Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql,gcp,firebase,vscode,github)
 
-## Achievements
+## 🏆 Achievements
 
 ```mermaid
 mindmap
@@ -57,7 +57,7 @@ mindmap
       Technical Tutorials
 ```
 
-## Let's Connect
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/XFD)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:XFarisDarwish@gmail.com)
