@@ -28,9 +28,9 @@ const faris = {
 
 ## 📊 Activity
 
-| GitHub Activity | Top Languages |
-|----------------|---------------|
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwee4&layout=compact&theme=github_dark&hide_border=true) |
+| GitHub Activity |
+|----------------|
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darwee4&theme=github-compact&hide_border=true&area=true) |
 
 ## 🛠️ Tech Arsenal
 
